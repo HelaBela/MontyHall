@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/bin/Debug/netcoreapp2.2/MontyHall.deps.json
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/bin/Debug/netcoreapp2.2/MontyHall.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/bin/Debug/netcoreapp2.2/MontyHall.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/bin/Debug/netcoreapp2.2/MontyHall.dll
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/bin/Debug/netcoreapp2.2/MontyHall.pdb
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/obj/Debug/netcoreapp2.2/MontyHall.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/obj/Debug/netcoreapp2.2/MontyHall.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/obj/Debug/netcoreapp2.2/MontyHall.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/obj/Debug/netcoreapp2.2/MontyHall.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/obj/Debug/netcoreapp2.2/MontyHall.dll
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall/obj/Debug/netcoreapp2.2/MontyHall.pdb

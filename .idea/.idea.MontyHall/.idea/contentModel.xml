@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/nunit.engine.netstandard.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_MontyHall.1752305374.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="MontyHall" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Door.cs" t="Include" />
+        <e p="Game.cs" t="Include" />
+        <e p="GameSimulator.cs" t="Include" />
+        <e p="IRandomChooser.cs" t="Include" />
+        <e p="MontyHall.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MontyHall.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="RandomChooser.cs" t="Include" />
+      </e>
+      <e p="MontyHall.sln" t="IncludeFlat" />
+      <e p="MontyHall.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GameSimulatorTest.cs" t="Include" />
+        <e p="GameTests.cs" t="Include" />
+        <e p="MontyHall.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MontyHall.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="MontyHall.Tests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RandomChooserTests.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

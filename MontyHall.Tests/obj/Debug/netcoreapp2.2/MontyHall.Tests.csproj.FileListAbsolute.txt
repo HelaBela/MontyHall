@@ -1,0 +1,17 @@
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/obj/Debug/netcoreapp2.2/MontyHall.Tests.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/obj/Debug/netcoreapp2.2/MontyHall.Tests.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/obj/Debug/netcoreapp2.2/MontyHall.Tests.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/obj/Debug/netcoreapp2.2/MontyHall.Tests.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/MontyHall.Tests.deps.json
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/MontyHall.Tests.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/MontyHall.Tests.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/MontyHall.Tests.dll
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/MontyHall.Tests.pdb
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/MontyHall.dll
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/bin/Debug/netcoreapp2.2/MontyHall.pdb
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/obj/Debug/netcoreapp2.2/MontyHall.Tests.csproj.CopyComplete
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/obj/Debug/netcoreapp2.2/MontyHall.Tests.dll
+/Users/helena.franczak/RiderProjects/MontyHall/MontyHall.Tests/obj/Debug/netcoreapp2.2/MontyHall.Tests.pdb
